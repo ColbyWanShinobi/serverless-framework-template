@@ -1,7 +1,7 @@
 {
   "name": "sls-base",
   "version": "1.0.0",
-  "description": "Template for Serverless Framework projects, derived from codingly.com",
+  "description": "Template for Serverless Framework projects",
   "author": "Colby Butler <colby@owljet.com>",
   "license": "MIT",
   "devDependencies": {

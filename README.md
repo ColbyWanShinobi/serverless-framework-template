@@ -1,5 +1,4 @@
 # Serverless Framework Template
-### Derived from https://codingly.io
 Personal template for serverless deployments
 
 ## What's included
